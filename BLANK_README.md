@@ -72,9 +72,9 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Joel Óscar - Kefler7722@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/KeflerExe/Bigger-Data-Types-C-]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
