@@ -37,7 +37,7 @@ That is, the maximum range is limited by the maximum size that the system allows
 
 None
 
-### Installation and use
+### Installation
 
 No installation required :)
 
