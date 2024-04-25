@@ -17,6 +17,8 @@ digits needed to write any number. By default, the decimal system will be used
 The representation range of the BigInt<size_t Base> data type encompasses any integer, positive or negative, that can be stored in machine memory.
 That is, the maximum range is limited by the maximum size that the system allows for the data structure where the digits are stored.
 
+Using the BigInt<Base> data type, the program implements a calculator for expressions in inverse Polish notation.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -49,7 +51,10 @@ No installation required :)
 
 1. Download the files
 2. Compile with g++
-3. All ready!
+```
+g++ bigint_main.cc bigint_func.cc
+```
+4. All ready!
 
 (You can find instructions about the arguments of the program inside the bigint_func.cc file.)
 
