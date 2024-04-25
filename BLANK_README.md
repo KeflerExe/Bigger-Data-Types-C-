@@ -7,7 +7,7 @@
 
 
 In different fields of science there is a need to work with very big, or very small  numerical values.
-With this program I want to implement data types in C++ to handle 
+With this program im implementing data types in C++ to handle 
 very large numeric values, exceeding the representation range of the defined data types
 in standard language. To do this, the generic data type BigInt<size_t Base> is defined.
 represents integers using positional notatioN. In this numbering system, The value of a digit depends on its relative position and the Base, which determines the number of
