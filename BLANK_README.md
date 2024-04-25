@@ -14,6 +14,9 @@ represents integers using positional notatioN. In this numbering system, The val
 digits needed to write any number. By default, the decimal system will be used
 (base 10), although it is also common to use the binary (base 2), octal (base 8) and hexadecimal (base 16).
 
+The representation range of the BigInt<size_t Base> data type encompasses any integer, positive or negative, that can be stored in machine memory.
+That is, the maximum range is limited by the maximum size that the system allows for the data structure where the digits are stored.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
