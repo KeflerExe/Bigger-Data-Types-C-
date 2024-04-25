@@ -96,7 +96,7 @@ Project Link: [https://github.com/KeflerExe/Bigger-Data-Types-C-]
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/kefler-undefined-578ab8303/
+[linkedin-url]: www.linkedin.com/in/joel-óscar-martín-gutiérrez-578ab8303
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
