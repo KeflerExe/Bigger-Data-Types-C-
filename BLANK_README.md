@@ -37,32 +37,21 @@ That is, the maximum range is limited by the maximum size that the system allows
 
 None
 
-### Installation
+### Installation and use
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+No installation required :)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+1. Download the files
+2. Compile with g++
+3. All ready!
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+(You can find instructions about the arguments of the program inside the bigint_func.cc file.)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,17 +73,6 @@ Distributed under the MIT License.
 Joel Óscar - Kefler7722@gmail.com
 
 Project Link: [https://github.com/KeflerExe/Bigger-Data-Types-C-]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
