@@ -6,7 +6,17 @@
 ## About The Project
 
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+In different fields of science there is a need to work with very numerical values.
+big, or very small. New prefixes have recently been defined to name the
+multiples and submultiples of any unit of the International System of Weights and Measures [3], [4].
+In this practice we want to implement data types in C++ language to handle values
+very large numerics, exceeding the representation range of the defined data types
+in standard language [2]. To do this, the generic data type BigInt<size_t Base> is defined.
+represents integers using positional notation [1]. In this numbering system,
+The value of a digit depends on its relative position and the Base, which determines the number of
+digits needed to write any number. By default, the decimal system will be used
+(base 10), although it is also common to use the binary (base 2), octal (base 8) and
+hexadecimal (base 16)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
