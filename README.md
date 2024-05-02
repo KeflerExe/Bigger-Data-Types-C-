@@ -75,9 +75,8 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Joel Óscar - Kefler7722@gmail.com
+Joel Óscar - josc.margut@gmail.com
 
-Project Link: [https://github.com/KeflerExe/Bigger-Data-Types-C-]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
